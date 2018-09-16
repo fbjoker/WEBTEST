@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+
+	<head>
+		<meta charset="UTF-8">
+		<title></title>
+		<!-- 最新版本的 Bootstrap 核心 CSS 文件 -->
+		<link rel="stylesheet" href="../css/bootstrap.css" />
+		<!-- 引入jqruy -->
+		<script type="text/javascript" src="../js/jquery-3.3.1.js"></script>
+		<!-- 最新的 Bootstrap 核心 JavaScript 文件 -->
+		<script type="text/javascript" src="../js/bootstrap.js"></script>
+
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+	</head>
+
+	<body>
+
+		<div class="container">
+			Bootstrap 需要为页面内容和栅格系统包裹一个 .container 容器。我们提供了两个作此用处的类。注意，由于 padding 等属性的原因，这两种 容器类不能互相嵌套。 Bootstrap 需要为页面内容和栅格系统包裹一个 .container 容器。我们提供了两个作此用处的类。注意，由于 padding 等属性的原因，这两种 容器类不能互相嵌套。
+		</div>
+		<div class="row">
+			<div class="col-md-1 col-sm-2">.col-md-1</div>
+			<div class="col-md-1 col-sm-2">.col-md-1</div>
+			<div class="col-md-1 col-sm-2">.col-md-1</div>
+			<div class="col-md-1 col-sm-2">.col-md-1</div>
+			<div class="col-md-1 col-sm-2">.col-md-1</div>
+			<div class="col-md-1 col-sm-2">.col-md-1</div>
+			
+			<div class="col-md-1">.col-md-1</div>
+			<div class="col-md-1">.col-md-1</div>
+			<div class="col-md-1">.col-md-1</div>
+			<div class="col-md-1">.col-md-1</div>
+			<div class="col-md-1">.col-md-1</div>
+			<div class="col-md-1">.col-md-1</div>
+		</div>
+		<div class="row">
+			<div class="col-md-8">.col-md-8</div>
+			<div class="col-md-4">.col-md-4</div>
+		</div>
+		<div class="row">
+			<div class="col-md-4">.col-md-4</div>
+			<div class="col-md-4">.col-md-4</div>
+			<div class="col-md-4">.col-md-4</div>
+		</div>
+		<div class="row">
+			<div class="col-md-3">.col-md-4</div>
+			<div class="col-md-3">.col-md-4</div>
+			<div class="col-md-3">.col-md-4</div>
+			<div class="col-md-3">.col-md-4</div>
+		</div>
+		<div class="row">
+			<div class="col-md-6">.col-md-6</div>
+			<div class="col-md-6">.col-md-6</div>
+		</div>
+	</body>
+
+</html>
